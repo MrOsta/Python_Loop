@@ -14,14 +14,14 @@ try:
                 print("Sorry! We Can't Continue ..")
     else:
         i = 1 
-        while i <= 5:
+        for i in range(3):
             hh = input("Please Try Again, Your sure? ( yes or no ): ")
             if hh == "yes" or hh == "Yes":
                 looping_f()
-                break
+                
             elif hh == "no":
                 print("Sorry! We Can't Continue ..")
-                break
+                
     #----------------- By Yaqub Alrubiaan -----------------------------
 except:
     print("\n#######\n Something Wrong Please Try Again! ):\n####### \n Contact Me in twitter: @Yaqubalrubiaan")
