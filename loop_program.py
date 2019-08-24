@@ -22,6 +22,6 @@ try:
             elif hh == "no":
                 print("Sorry! We Can't Continue ..")
                 
-    #----------------- By Yaqub Alrubiaan -----------------------------
+    #----------------- By MrOsta -----------------------------
 except:
-    print("\n#######\n Something Wrong Please Try Again! ):\n####### \n Contact Me in twitter: @Yaqubalrubiaan")
+    print("\n#######\n Something Wrong Please Try Again! ):\n####### \n Contact Me in twitter: @MrOsta_")
