@@ -1,5 +1,5 @@
 try:
-    print("Hello Welcome To My Program in the python,, By: Yaqub Alrubiaan  :) \n ----------------- \n Twitter/github: @yaqubalrubiaan \n Linkedin: Yaqub Alrubiaan \n")
+    print("Hello Welcome To My Program in the python,, By: MrOsta  :) \n ----------------- \n Twitter: @MrOsta_ \n")
     name = input("Please Type Your Value:")
     howch = int(input("Please Type the number of loop ( only numbers ): "))
     auth = input("Your sure? | yes or no: ")
@@ -7,7 +7,7 @@ try:
     def looping_f():
         for i in range(howch):
             print(name)
-        print("\n \n ---- \n \n Thanks For Try. This is",howch,"Loop. \n \n By: YaqubAlrubiaan")
+        print("\n \n ---- \n \n Thanks For Try. This is",howch,"Loop. \n \n By: @MrOsta")
     if auth == "yes" or auth == "Yes":
         looping_f()
     elif auth == "no":
